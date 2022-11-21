@@ -1,0 +1,6 @@
+.bg-mine{
+    background-color: #61557f!important;
+}
+a.bg-mine:focus, a.bg-mine:hover, button.bg-mine:focus, button.bg-mine:hover {
+    background-color: #805477 !important;
+}
