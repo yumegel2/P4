@@ -4,3 +4,11 @@
 a.bg-mine:focus, a.bg-mine:hover, button.bg-mine:focus, button.bg-mine:hover {
     background-color: #805477 !important;
 }
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
