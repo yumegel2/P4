@@ -133,3 +133,9 @@ a.bg-mine:focus, a.bg-mine:hover, button.bg-mine:focus, button.bg-mine:hover {
         transform: rotate(360deg);
     }
 }
+/* Boxes*/
+.bx-map:before{content:"\eb56"}
+.bx-map-alt:before{content:"\eb57"}
+.bx-map-pin:before{content:"\eb58"}
+.bx-mask:before{content:"\eb59"}
+.bx-medal:before{content:"\eb5a"}
