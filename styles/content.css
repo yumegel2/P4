@@ -4,6 +4,12 @@
 a.bg-mine:focus, a.bg-mine:hover, button.bg-mine:focus, button.bg-mine:hover {
     background-color: #805477 !important;
 }
+/*Base structure*/
+html,
+body {
+    height: 100%;
+    background-color: #61557f;
+}
 body {
     display: -ms-flexbox;
     display: -webkit-box;
