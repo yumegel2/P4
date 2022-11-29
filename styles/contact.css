@@ -14,6 +14,9 @@ body {
 }
 
 /* Bowrroed CSS */
+.contact{
+    text-align: center;
+}
 .contact .info-box {
     color: #2d405f;
     text-align: center;
