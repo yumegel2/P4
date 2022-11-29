@@ -67,4 +67,10 @@ body {
         transform: rotate(360deg);
     }
 }
-
+/*Boxicons*/
+.bx-map:before{content:"\eb56"}
+.bx-map-alt:before{content:"\eb57"}
+.bx-map-pin:before{content:"\eb58"}
+.bxs-envelope:before{content:"\ed9f"}
+.bxs-envelope-open:before{content:"\eda0"}
+.bxs-phone-call:before{content:"\ee67"}
