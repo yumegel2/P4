@@ -6,13 +6,6 @@
 a.bg-mine:focus, a.bg-mine:hover, button.bg-mine:focus, button.bg-mine:hover {
     background-color: #805477 !important;
 }
-/* Links */
-a,
-a:focus,
-a:hover {
-    color: #fff;
-}
-
 /*Base structure*/
 html,
 body {
