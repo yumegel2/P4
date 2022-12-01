@@ -15,7 +15,7 @@ body {
 
 /* Bowrroed CSS */
 .container{
-    align-content: center;
+    align-self: center;
 }
 .contact{
     text-align: center;
