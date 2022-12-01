@@ -12,14 +12,6 @@ body {
     height: 100%;
     background-color: #61557f;
 }
-body {
-    display: -ms-flexbox;
-    display: -webkit-box;
-    display: flex;
-    -ms-flex-pack: center;
-    -webkit-box-pack: center;
-    justify-content: center;
-}
 .cover-container {
     max-width: 42em;
 }
