@@ -15,7 +15,7 @@ body {
 .cover-container {
     max-width: 42em;
 }
-p{
+section p{
     clear: left;
 }
 /*Header*/
