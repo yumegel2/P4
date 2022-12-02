@@ -60,7 +60,7 @@ p{
     font-weight: 700;
 }
 /*Image*/
-.img-page{
+aside .img-page{
     position: relative;
     display: inline-block;
     height: auto;
