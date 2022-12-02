@@ -16,7 +16,7 @@ body {
     max-width: 42em;
 }
 section p{
-    clear: left;
+    clear: right;
 }
 /*Header*/
 .masthead {
