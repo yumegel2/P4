@@ -64,3 +64,6 @@ aside .img-page{
     height: auto;
     width: 20%;
 }
+footer{
+    clear: both;
+}
