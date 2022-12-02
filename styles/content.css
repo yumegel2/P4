@@ -61,8 +61,6 @@ p{
 }
 /*Image*/
 aside .img-page{
-    position: relative;
-    display: inline-block;
     height: auto;
     width: 50%;
 }
