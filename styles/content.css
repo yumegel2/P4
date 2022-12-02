@@ -15,7 +15,9 @@ body {
 .cover-container {
     max-width: 42em;
 }
-
+p{
+    float: right;
+}
 /*Header*/
 .masthead {
     margin-bottom: 2rem;
@@ -58,7 +60,7 @@ body {
     font-weight: 700;
 }
 /*Image*/
-img{
+.img-page{
     position: relative;
     display: inline-block;
     height: auto;
