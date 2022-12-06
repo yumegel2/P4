@@ -60,13 +60,9 @@ section p{
     font-weight: 700;
 }
 /*Image*/
-aside .landscape{
+aside img{
     height: auto;
     max-width: 70%;
-}
-aside .portrait{
-    max-height: 30%;
-    width: auto;
 }
 
 footer{
