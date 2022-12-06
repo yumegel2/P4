@@ -62,7 +62,11 @@ section p{
 /*Image*/
 aside img{
     height: auto;
-    max-width: 70%;
+    width: 70%;
+}
+aside img .portrait{
+    height: 70%;
+    width: auto;
 }
 
 footer{
