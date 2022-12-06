@@ -16,7 +16,7 @@ body {
     max-width: 42em;
 }
 section p{
-    clear: right;
+    float: right;
 }
 /*Header*/
 .masthead {
@@ -60,10 +60,15 @@ section p{
     font-weight: 700;
 }
 /*Image*/
-aside .img-page{
+aside .landscape{
     height: auto;
-    width: 30%;
+    width: 70%;
 }
+aside .portrait{
+    height: 70%;
+    width: auto;
+}
+
 footer{
     clear: both;
 }
