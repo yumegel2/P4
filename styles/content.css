@@ -62,6 +62,7 @@ section p{
 /*Section*/
 section{
     float: right;
+    position: relative;
 }
 /*Image*/
 aside img{
