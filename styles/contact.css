@@ -73,5 +73,10 @@ body {
 #contact i{
     color:#483d8b;
 }
+/*Footer*/
+footer p{
+    clear: both;
+}
+
 
 

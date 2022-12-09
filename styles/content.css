@@ -59,6 +59,10 @@ section p{
     padding: .75rem 1.25rem;
     font-weight: 700;
 }
+/*Section*/
+section{
+    float: right;
+}
 /*Image*/
 aside img{
     height: auto;
@@ -67,4 +71,8 @@ aside img{
 aside img .portrait{
     height: 70%;
     width: auto;
+}
+/*Footer*/
+footer p{
+    clear: both;
 }
