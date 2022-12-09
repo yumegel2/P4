@@ -60,10 +60,7 @@ section p{
     font-weight: 700;
 }
 /*Section*/
-section{
-    float: right;
-    position: relative;
-}
+
 /*Image*/
 aside img{
     height: auto;
@@ -74,6 +71,4 @@ aside img .portrait{
     width: auto;
 }
 /*Footer*/
-footer p{
-    clear: both;
-}
+
